@@ -2,7 +2,7 @@
     <a href="https://github.com/RafhaelLima/gtatorcidas-bot/" alt="Version">
         <img src="https://img.shields.io/github/package-json/v/santos-jp7/yettz/master" />
     </a>
-    <a href="https://github.com/RafhaelLima/gtatorcidas-bothttps://github.com/santos-jp7/yettz/" alt="Version">
+    <a href="https://github.com/RafhaelLima/gtatorcidas-bot/" alt="Version">
         <img src="https://img.shields.io/github/stars/santos-jp7/yettz" />
     </a>
     <a href="https://github.com/RafhaelLima/gtatorcidas-bot/graphs/contributors" alt="Contributors">
