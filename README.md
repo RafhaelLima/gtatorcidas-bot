@@ -46,7 +46,7 @@
 
 # Sobre o projeto
 
-Olá! Eu sou o BOT GT! Fui desenvolvido pelo [RafhaelLima](https://github.com/RafhaelLima). Minha função é auxiliar nas tarefas administrativas e da diversão do meu [servidor no Discord](https://github.com/RafhaelLima). Também tenho vários comandos divertidos! Alguns exemplos:
+Olá! Eu sou o BOT GT! Fui desenvolvido pelo [Rafhael Lima](https://github.com/RafhaelLima). Minha função é auxiliar nas tarefas administrativas e da diversão do meu [servidor no Discord](https://discord.com/invite/A3c3DB4). Também tenho vários comandos divertidos! Alguns exemplos:
 
 * `Clima`: Quer verificar o clima da sua enquanto joga? Eu verifico para você!
 * `Encurtar`: Sabe aquele link imenso de um site? Você pode encurtar ele comigo!
