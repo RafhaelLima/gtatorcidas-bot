@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://cdn.discordapp.com/avatars/572283573034418176/2b1aa05828bf6f382bc811a953c126a2.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/avatars/741487082450583592/22542beae5b8e0397cc086962658f2d2.png?size=128" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">GTA Torcidas</h3>
