@@ -13,16 +13,16 @@
             alt="chat on Discord">
     </a>
     <a href="https://twitter.com/apocryphoscp">
-        <img src="https://img.shields.io/twitter/follow/santos_jp7?style=social&logo=twitter"
+        <img src="https://img.shields.io/twitter/follow/apocryphoscp?style=social&logo=twitter"
             alt="follow on Twitter">
     </a>
     <br />
      <a href="https://github.com/RafhaelLima/gtatorcidas-bot/issues">
-        <img src="https://img.shields.io/github/issues/santos-jp7/yettz"
+        <img src="https://img.shields.io/github/issues/RafhaelLima/gtatorcidas-bot"
             alt="Issues">
     </a>
     <a href="https://github.com/RafhaelLima/gtatorcidas-bot/pulls">
-        <img src="https://img.shields.io/github/issues-pr/santos-jp7/yettz"
+        <img src="https://img.shields.io/github/issues-pr/RafhaelLima/gtatorcidas-bot"
             alt="Pull Request">
     </a>
 </p>
