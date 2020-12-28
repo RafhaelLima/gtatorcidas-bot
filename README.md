@@ -70,9 +70,9 @@ Entre [aqui](https://github.com/RafhaelLima/gtatorcidas-bot/issues) e crie uma i
 Deseja enviar uma contribuição?
 
 1. Crie um fork do projeto
-2. Crie uma nova branch (`git checkout -b feature/Yettz`)
+2. Crie uma nova branch (`git checkout -b feature/gtatorcidas`)
 3. Comente suas mudanças (`git commit -m 'Add function Hello'`)
-4. Envie sua branch (`git push origin feature/Yettz`)
+4. Envie sua branch (`git push origin feature/gtatorcidas`)
 5. Abra um Pull Request
 
 ### Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Todas as contribuições que você fizer são muito apreciadas .
