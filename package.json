@@ -1,0 +1,25 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Bot para o servidor do GTA Torcidas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.test.js"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "node",
+    "js"
+  ],
+  "author": "Rafhael Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://www.gtatorcidas.net/forum/profile/5404-my-name-is-daddy/"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
