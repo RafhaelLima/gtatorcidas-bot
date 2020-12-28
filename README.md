@@ -1,27 +1,27 @@
 <p align="center">
-    <a href="https://github.com/santos-jp7/yettz/" alt="Version">
+    <a href="https://github.com/RafhaelLima/gtatorcidas-bot/" alt="Version">
         <img src="https://img.shields.io/github/package-json/v/santos-jp7/yettz/master" />
     </a>
-    <a href="https://github.com/santos-jp7/yettz/" alt="Version">
+    <a href="https://github.com/RafhaelLima/gtatorcidas-bothttps://github.com/santos-jp7/yettz/" alt="Version">
         <img src="https://img.shields.io/github/stars/santos-jp7/yettz" />
     </a>
-    <a href="https://github.com/santos-jp7/yettz/graphs/contributors" alt="Contributors">
+    <a href="https://github.com/RafhaelLima/gtatorcidas-bot/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/santos-jp7/yettz" />
     </a>
-    <a href="https://discord.gg/zsAnRKZ">
+    <a href="https://discord.com/invite/A3c3DB4">
         <img src="https://img.shields.io/discord/433127412444954634?logo=discord"
             alt="chat on Discord">
     </a>
-    <a href="https://twitter.com/intent/follow?screen_name=santos_jp7">
+    <a href="https://twitter.com/apocryphoscp">
         <img src="https://img.shields.io/twitter/follow/santos_jp7?style=social&logo=twitter"
             alt="follow on Twitter">
     </a>
     <br />
-     <a href="https://github.com/santos-jp7/yettz/issues">
+     <a href="https://github.com/RafhaelLima/gtatorcidas-bot/issues">
         <img src="https://img.shields.io/github/issues/santos-jp7/yettz"
             alt="Issues">
     </a>
-    <a href="https://github.com/santos-jp7/yettz/pulls">
+    <a href="https://github.com/RafhaelLima/gtatorcidas-bot/pulls">
         <img src="https://img.shields.io/github/issues-pr/santos-jp7/yettz"
             alt="Pull Request">
     </a>
@@ -33,20 +33,20 @@
     <img src="https://cdn.discordapp.com/avatars/572283573034418176/2b1aa05828bf6f382bc811a953c126a2.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Yettz</h3>
+  <h3 align="center">GTA Torcidas</h3>
 
   <p align="center">
-    Um bot brasileiro para o Discord 100% open-source!
+    Um bot brasileiro para o servidor do GTA Torcidas!
     <br />
-    <a href="https://github.com/santos-jp7/yettz/issues">Informar um bug</a>
+    <a href="https://github.com/RafhaelLima/gtatorcidas-bot/issues">Informar um bug</a>
     <br />
-    <a href="https://github.com/santos-jp7/yettz/issues">FAQ</a>
+    <a href="https://github.com/RafhaelLima/gtatorcidas-bot/issues">FAQ</a>
   </p>
 </p>
 
 # Sobre o projeto
 
-Olá! Eu sou o Yettz! Fui desenvolvido pelo [santos-jp7](https://github.com/santos-jp7). Minha função é auxiliar nas tarefas administrativas e da diversão do meu [servidor no Discord](https://github.com/santos-jp7). Também tenho vários comandos divertidos! Alguns exemplos:
+Olá! Eu sou o BOT GT! Fui desenvolvido pelo [RafhaelLima](https://github.com/RafhaelLima). Minha função é auxiliar nas tarefas administrativas e da diversão do meu [servidor no Discord](https://github.com/RafhaelLima). Também tenho vários comandos divertidos! Alguns exemplos:
 
 * `Clima`: Quer verificar o clima da sua enquanto joga? Eu verifico para você!
 * `Encurtar`: Sabe aquele link imenso de um site? Você pode encurtar ele comigo!
@@ -56,72 +56,14 @@ Minha memória ainda é curta, mas em breve terei um banco de dados onde poderei
 
 # Versão global
 
-Clique [aqui](https://discordapp.com/api/oauth2/authorize?client_id=572283573034418176&permissions=8&scope=bot) para me adicionar ao seu servidor!
+Clique [aqui](https://discord.com/api/oauth2/authorize?client_id=741487082450583592&permissions=3184647&scope=bot) para me adicionar ao seu servidor!
 
-# Versão local
-
-Bom... Se quer me ter em seu computador é só seguir esses passos:
-
-## Pre-requisitos
-
-* [NodeJs](https://nodejs.org/pt-br/download/)
-* [Npm](https://www.npmjs.com/get-npm) ou [Yarn](https://yarnpkg.com/lang/en/docs/install/)
-* [Git](https://git-scm.com/downloads) (Opcional)
-* [Conta na Rebrandly](https://www.rebrandly.com) (Opcional)
-* [Conta na WeatherStack](https://weatherstack.com) (Opcional)
-* E também de uma [aplicação no Discord](https://discordapp.com/developers/applications), vamos utilizar apenas seu token!
-
-## Instalação
-
-1. Clone o repositório
-
-```sh
-git clone https://github.com/santos-jp7/yettz.git
-```
-
-Ou faça o [download](https://github.com/santos-jp7/yettz/archive/master.zip)
-
-2. Instale as depedências
-
-```sh
-npm install
-```
-
-Ou caso esteja utilizando yarn
-```sh
-yarn
-```
-
-3. Crie um arquivo `.env` na raiz do projeto
-
-```JS
-DEV_ID={seu id de usuario}
-
-TOKEN={o token de seu bot}
-PREFIX={o prefixo para utilização dos comandos}
-
-WEATHERSTACK_KEY={o seu token do weatherstack}
-REBRANDLY_KEY={o seu token do rebrandly}
-```
-### Atenção
-* Não esqueça de remover os colchetes
-* Caso não for usar os comandos de clima ou encurtar, apague as linhas referentes (WEATHERSTACK_KEY, REBRANDLY_KEY)
-
-## Como usar
-
-```sh
-npm start
-```
-ou
-```sh
-yarn start
-```
 
 Adicione o bot ao seu servidor caso não tenha adicionado ainda.
 
 ### Ocorreu algum erro ou está tendo dificuldades na instalação?
 
-Entre [aqui](https://github.com/santos-jp7/yettz/issues) e crie uma issue para podermos te ajudar ;)!
+Entre [aqui](https://github.com/RafhaelLima/gtatorcidas-bot/issues) e crie uma issue para podermos te ajudar ;)!
 
 ## Contribuição
 
@@ -141,7 +83,7 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 
 # Contato
 
-Jean Pierre - [@santos-jp7](https://twitter.com/santos-jp7) - hjepih@gmail.com
+Rafhael Lima - [@apocryphoscp](https://twitter.com/apocryphoscp) - rafhaelsoares98@gmail.com
 
 # Referências
 
